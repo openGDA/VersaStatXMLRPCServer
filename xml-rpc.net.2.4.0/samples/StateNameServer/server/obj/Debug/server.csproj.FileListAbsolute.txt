@@ -1,0 +1,5 @@
+C:\Program Files\Princeton Applied Research\VersaSTAT Developers Kit\xml-rpc.net.2.4.0\samples\StateNameServer\bin\StateNameServer.exe
+C:\Program Files\Princeton Applied Research\VersaSTAT Developers Kit\xml-rpc.net.2.4.0\samples\StateNameServer\bin\StateNameServer.pdb
+C:\Program Files\Princeton Applied Research\VersaSTAT Developers Kit\xml-rpc.net.2.4.0\samples\StateNameServer\server\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files\Princeton Applied Research\VersaSTAT Developers Kit\xml-rpc.net.2.4.0\samples\StateNameServer\server\obj\Debug\StateNameServer.exe
+C:\Program Files\Princeton Applied Research\VersaSTAT Developers Kit\xml-rpc.net.2.4.0\samples\StateNameServer\server\obj\Debug\StateNameServer.pdb

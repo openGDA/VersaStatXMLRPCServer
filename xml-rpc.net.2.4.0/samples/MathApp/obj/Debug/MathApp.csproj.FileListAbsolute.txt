@@ -1,0 +1,8 @@
+C:\Program Files\Princeton Applied Research\VersaSTAT Developers Kit\xml-rpc.net.2.4.0\samples\MathApp\bin\Debug\MathApp.exe
+C:\Program Files\Princeton Applied Research\VersaSTAT Developers Kit\xml-rpc.net.2.4.0\samples\MathApp\bin\Debug\MathApp.pdb
+C:\Program Files\Princeton Applied Research\VersaSTAT Developers Kit\xml-rpc.net.2.4.0\samples\MathApp\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\Program Files\Princeton Applied Research\VersaSTAT Developers Kit\xml-rpc.net.2.4.0\samples\MathApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files\Princeton Applied Research\VersaSTAT Developers Kit\xml-rpc.net.2.4.0\samples\MathApp\obj\Debug\MathApp.Form1.resources
+C:\Program Files\Princeton Applied Research\VersaSTAT Developers Kit\xml-rpc.net.2.4.0\samples\MathApp\obj\Debug\MathApp.csproj.GenerateResource.Cache
+C:\Program Files\Princeton Applied Research\VersaSTAT Developers Kit\xml-rpc.net.2.4.0\samples\MathApp\obj\Debug\MathApp.exe
+C:\Program Files\Princeton Applied Research\VersaSTAT Developers Kit\xml-rpc.net.2.4.0\samples\MathApp\obj\Debug\MathApp.pdb

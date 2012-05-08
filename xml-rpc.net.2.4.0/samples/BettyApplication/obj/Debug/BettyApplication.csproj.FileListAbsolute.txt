@@ -1,0 +1,8 @@
+C:\Program Files\Princeton Applied Research\VersaSTAT Developers Kit\xml-rpc.net.2.4.0\samples\BettyApplication\bin\Debug\BettyApp.exe
+C:\Program Files\Princeton Applied Research\VersaSTAT Developers Kit\xml-rpc.net.2.4.0\samples\BettyApplication\bin\Debug\BettyApp.pdb
+C:\Program Files\Princeton Applied Research\VersaSTAT Developers Kit\xml-rpc.net.2.4.0\samples\BettyApplication\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\Program Files\Princeton Applied Research\VersaSTAT Developers Kit\xml-rpc.net.2.4.0\samples\BettyApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files\Princeton Applied Research\VersaSTAT Developers Kit\xml-rpc.net.2.4.0\samples\BettyApplication\obj\Debug\WindowsApplication4.Form1.resources
+C:\Program Files\Princeton Applied Research\VersaSTAT Developers Kit\xml-rpc.net.2.4.0\samples\BettyApplication\obj\Debug\BettyApplication.csproj.GenerateResource.Cache
+C:\Program Files\Princeton Applied Research\VersaSTAT Developers Kit\xml-rpc.net.2.4.0\samples\BettyApplication\obj\Debug\BettyApp.exe
+C:\Program Files\Princeton Applied Research\VersaSTAT Developers Kit\xml-rpc.net.2.4.0\samples\BettyApplication\obj\Debug\BettyApp.pdb

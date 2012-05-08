@@ -1,0 +1,22 @@
+C:\Program Files\Princeton Applied Research\VersaSTAT Developers Kit\VersaStatXMLRPCServer\bin\Release\VersaStatXMLRPCServer.exe
+C:\Program Files\Princeton Applied Research\VersaSTAT Developers Kit\VersaStatXMLRPCServer\bin\Release\VersaStatXMLRPCServer.pdb
+C:\Program Files\Princeton Applied Research\VersaSTAT Developers Kit\VersaStatXMLRPCServer\bin\Release\CookComputing.XmlRpcV2.dll
+C:\Program Files\Princeton Applied Research\VersaSTAT Developers Kit\VersaStatXMLRPCServer\obj\Release\ResolveAssemblyReference.cache
+C:\Program Files\Princeton Applied Research\VersaSTAT Developers Kit\VersaStatXMLRPCServer\obj\Release\VersaStatXMLRPCServer.exe
+C:\Program Files\Princeton Applied Research\VersaSTAT Developers Kit\VersaStatXMLRPCServer\obj\Release\VersaStatXMLRPCServer.pdb
+C:\Program Files\Princeton Applied Research\VersaSTAT Developers Kit\VersaStatXMLRPCServer\bin\Release\VersaSTATControl.dll
+C:\Program Files\Princeton Applied Research\VersaStatXMLRPCServer\VersaStatXMLRPCServer\bin\Release\DeviceIO.dll
+C:\Program Files\Princeton Applied Research\VersaStatXMLRPCServer\VersaStatXMLRPCServer\bin\Release\VersaStatXMLRPCServer.exe
+C:\Program Files\Princeton Applied Research\VersaStatXMLRPCServer\VersaStatXMLRPCServer\bin\Release\VersaStatXMLRPCServer.pdb
+C:\Program Files\Princeton Applied Research\VersaStatXMLRPCServer\VersaStatXMLRPCServer\bin\Release\CookComputing.XmlRpcV2.dll
+C:\Program Files\Princeton Applied Research\VersaStatXMLRPCServer\VersaStatXMLRPCServer\bin\Release\VersaSTATControl.dll
+C:\Program Files\Princeton Applied Research\VersaStatXMLRPCServer\VersaStatXMLRPCServer\obj\Release\ResolveAssemblyReference.cache
+C:\Program Files\Princeton Applied Research\VersaStatXMLRPCServer\VersaStatXMLRPCServer\obj\Release\VersaStatXMLRPCServer.Properties.Resources.resources
+C:\Program Files\Princeton Applied Research\VersaStatXMLRPCServer\VersaStatXMLRPCServer\obj\Release\VersaStatXMLRPCServer.csproj.GenerateResource.Cache
+C:\Program Files\Princeton Applied Research\VersaStatXMLRPCServer\VersaStatXMLRPCServer\obj\Release\VersaStatXMLRPCServer.exe
+C:\Program Files\Princeton Applied Research\VersaStatXMLRPCServer\VersaStatXMLRPCServer\obj\Release\VersaStatXMLRPCServer.pdb
+C:\Program Files\Princeton Applied Research\VersaStatXMLRPCServer\VersaStatXMLRPCServer\bin\Release\VersaStatXMLRPCServer.exe.manifest
+C:\Program Files\Princeton Applied Research\VersaStatXMLRPCServer\VersaStatXMLRPCServer\bin\Release\VersaStatXMLRPCServer.application
+C:\Program Files\Princeton Applied Research\VersaStatXMLRPCServer\VersaStatXMLRPCServer\obj\Release\VersaStatXMLRPCServer.exe.manifest
+C:\Program Files\Princeton Applied Research\VersaStatXMLRPCServer\VersaStatXMLRPCServer\obj\Release\VersaStatXMLRPCServer.application
+C:\Program Files\Princeton Applied Research\VersaStatXMLRPCServer\VersaStatXMLRPCServer\bin\Release\VersaStatXMLRPCServer.exe.config

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="StateNameServer">
+</Property><Property Name="Solution File" Value="C:\Program Files\Princeton Applied Research\VersaSTAT Developers Kit\xml-rpc.net.2.4.0\samples\StateNameServer\StateNameServer.sln">
+</Property><Property Name="Date" Value="28 April 2010">
+</Property><Property Name="Time" Value="09:24">
+</Property></Properties><Event ErrorLevel="0" Project="client" Source="client\client.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="client" Source="client\client.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="server" Source="server\server.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="server" Source="server\server.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="interface" Source="interface\interface.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="interface" Source="interface\interface.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="StateNameServer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="StateNameServer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="client" Source="client\client.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="server" Source="server\server.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="interface" Source="interface\interface.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
