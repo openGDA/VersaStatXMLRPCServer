@@ -66,14 +66,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="VersaStatXMLRPCServer.exe" size="11264">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="VersaStatXMLRPCServer.exe" size="11776">
       <assemblyIdentity name="VersaStatXMLRPCServer" version="0.5.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>vBF1tFjtH5u3ArcglMrPusmwft4=</dsig:DigestValue>
+        <dsig:DigestValue>DO26DoS+PcmacX/g0QJTywTtGnI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

@@ -119,27 +119,27 @@ namespace VersaStatXMLRPCServer
         */
 
         [XmlRpcMethod("SetDCPotential")]
-        void SetDCPotential( float fVoltage );
+        void SetDCPotential( double fVoltage );
         /* Sets the output DC potential to the amount provided with the 
         * fVoltage parameter, in Volts. Note this value must be within the 
         * instruments capability.
         */
 
         [XmlRpcMethod("SetDCCurrent")]
-        void SetDCCurrent( float fCurrent );
+        void SetDCCurrent( double fCurrent );
         /* 
         * Sets the output DC current to the amount provided with the fCurrent parameter, in Amps. Calling this method also changes to Galvanostat mode and sets the current range to the correct value. WARNING: Once cell is enabled after setting the DC current, do not change to potentiostatic mode or change the current range, these will affect the value being applied to the cell. 
         * Note this value must be within the instruments capability.
         */
 
         [XmlRpcMethod("SetACFrequency")]
-        void SetACFrequency( float fFrequency );
+        void SetACFrequency( double fFrequency );
         /* Sets the output AC Frequency to the value provided with the fFrequency parameter, 
         * in Hz. Note this value must be within the instruments capability.
         */
 
         [XmlRpcMethod("SetACAmplitude")]
-        void SetACAmplitude( float fRMSAmplitude );
+        void SetACAmplitude( double fRMSAmplitude );
         /* Sets the output AC Amplitude to the value provided with the 
         * fRMSAmplitude parameter, in RMS Volts. Note this value must be within the 
         * instruments capabilities.
@@ -347,24 +347,24 @@ namespace VersaStatXMLRPCServer
             V3_Instrument.Immediate.SetIRange_4nA();
         }
 
-        public void SetDCPotential(float fVoltage)
+        public void SetDCPotential(double fVoltage)
         {
-            V3_Instrument.Immediate.SetDCPotential(fVoltage);
+            V3_Instrument.Immediate.SetDCPotential((float)fVoltage);
         }
 
-        public void SetDCCurrent(float fCurrent)
+        public void SetDCCurrent(double fCurrent)
         {
-            V3_Instrument.Immediate.SetDCCurrent(fCurrent);
+            V3_Instrument.Immediate.SetDCCurrent((float)fCurrent);
         }
 
-        public void SetACFrequency(float fFrequency)
+        public void SetACFrequency(double fFrequency)
         {
-            V3_Instrument.Immediate.SetACFrequency(fFrequency);
+            V3_Instrument.Immediate.SetACFrequency((float)fFrequency);
         }
 
-        public void SetACAmplitude(float fRMSAmplitude)
+        public void SetACAmplitude(double fRMSAmplitude)
         {
-            V3_Instrument.Immediate.SetACAmplitude(fRMSAmplitude);
+            V3_Instrument.Immediate.SetACAmplitude((float)fRMSAmplitude);
         }
 
         public void SetACWaveformOn()

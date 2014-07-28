@@ -1,0 +1,14 @@
+\\i07-storage\i07\software\VersaStatXMLRPCServer\VersaStatXMLRPCServer\bin\Debug\VersaStatXMLRPCServer.exe.config
+\\i07-storage\i07\software\VersaStatXMLRPCServer\VersaStatXMLRPCServer\bin\Debug\VersaStatXMLRPCServer.exe.manifest
+\\i07-storage\i07\software\VersaStatXMLRPCServer\VersaStatXMLRPCServer\bin\Debug\VersaStatXMLRPCServer.application
+\\i07-storage\i07\software\VersaStatXMLRPCServer\VersaStatXMLRPCServer\bin\Debug\VersaStatXMLRPCServer.exe
+\\i07-storage\i07\software\VersaStatXMLRPCServer\VersaStatXMLRPCServer\bin\Debug\VersaStatXMLRPCServer.pdb
+\\i07-storage\i07\software\VersaStatXMLRPCServer\VersaStatXMLRPCServer\bin\Debug\CookComputing.XmlRpcV2.dll
+\\i07-storage\i07\software\VersaStatXMLRPCServer\VersaStatXMLRPCServer\bin\Debug\VersaSTATControl.dll
+\\i07-storage\i07\software\VersaStatXMLRPCServer\VersaStatXMLRPCServer\obj\Debug\VersaStatXMLRPCServer.csprojResolveAssemblyReference.cache
+\\i07-storage\i07\software\VersaStatXMLRPCServer\VersaStatXMLRPCServer\obj\Debug\VersaStatXMLRPCServer.Properties.Resources.resources
+\\i07-storage\i07\software\VersaStatXMLRPCServer\VersaStatXMLRPCServer\obj\Debug\VersaStatXMLRPCServer.csproj.GenerateResource.Cache
+\\i07-storage\i07\software\VersaStatXMLRPCServer\VersaStatXMLRPCServer\obj\Debug\VersaStatXMLRPCServer.exe.manifest
+\\i07-storage\i07\software\VersaStatXMLRPCServer\VersaStatXMLRPCServer\obj\Debug\VersaStatXMLRPCServer.application
+\\i07-storage\i07\software\VersaStatXMLRPCServer\VersaStatXMLRPCServer\obj\Debug\VersaStatXMLRPCServer.exe
+\\i07-storage\i07\software\VersaStatXMLRPCServer\VersaStatXMLRPCServer\obj\Debug\VersaStatXMLRPCServer.pdb

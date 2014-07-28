@@ -11,3 +11,17 @@ U:\VersaStatXMLRPCServer\VersaStatXMLRPCServer\obj\Release\VersaStatXMLRPCServer
 U:\VersaStatXMLRPCServer\VersaStatXMLRPCServer\obj\Release\VersaStatXMLRPCServer.application
 U:\VersaStatXMLRPCServer\VersaStatXMLRPCServer\obj\Release\VersaStatXMLRPCServer.exe
 U:\VersaStatXMLRPCServer\VersaStatXMLRPCServer\obj\Release\VersaStatXMLRPCServer.pdb
+\\i07-storage\i07\software\VersaStatXMLRPCServer\VersaStatXMLRPCServer\obj\Release\VersaStatXMLRPCServer.exe
+\\i07-storage\i07\software\VersaStatXMLRPCServer\VersaStatXMLRPCServer\obj\Release\VersaStatXMLRPCServer.pdb
+\\i07-storage\i07\software\VersaStatXMLRPCServer\VersaStatXMLRPCServer\bin\Release\VersaStatXMLRPCServer.exe.config
+\\i07-storage\i07\software\VersaStatXMLRPCServer\VersaStatXMLRPCServer\bin\Release\VersaStatXMLRPCServer.exe.manifest
+\\i07-storage\i07\software\VersaStatXMLRPCServer\VersaStatXMLRPCServer\bin\Release\VersaStatXMLRPCServer.application
+\\i07-storage\i07\software\VersaStatXMLRPCServer\VersaStatXMLRPCServer\bin\Release\VersaStatXMLRPCServer.exe
+\\i07-storage\i07\software\VersaStatXMLRPCServer\VersaStatXMLRPCServer\bin\Release\VersaStatXMLRPCServer.pdb
+\\i07-storage\i07\software\VersaStatXMLRPCServer\VersaStatXMLRPCServer\bin\Release\CookComputing.XmlRpcV2.dll
+\\i07-storage\i07\software\VersaStatXMLRPCServer\VersaStatXMLRPCServer\bin\Release\VersaSTATControl.dll
+\\i07-storage\i07\software\VersaStatXMLRPCServer\VersaStatXMLRPCServer\obj\Release\VersaStatXMLRPCServer.csprojResolveAssemblyReference.cache
+\\i07-storage\i07\software\VersaStatXMLRPCServer\VersaStatXMLRPCServer\obj\Release\VersaStatXMLRPCServer.Properties.Resources.resources
+\\i07-storage\i07\software\VersaStatXMLRPCServer\VersaStatXMLRPCServer\obj\Release\VersaStatXMLRPCServer.csproj.GenerateResource.Cache
+\\i07-storage\i07\software\VersaStatXMLRPCServer\VersaStatXMLRPCServer\obj\Release\VersaStatXMLRPCServer.exe.manifest
+\\i07-storage\i07\software\VersaStatXMLRPCServer\VersaStatXMLRPCServer\obj\Release\VersaStatXMLRPCServer.application
